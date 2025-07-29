@@ -8,9 +8,9 @@
 
 ### 🚀 Sobre mim
 
-- 💼 Atualmente atuo como assistende de planejamento estratégico na **Digicob**, usando **Excel**, **Power BI** e **SQL Server**.
+- 💼 Atualmente atuo como assistente de planejamento estratégico na **Digicob**, usando **Excel**, **Power BI** e **SQL Server**.
 - 👨‍💻 Estudando para migrar para a área de **desenvolvimento de software**.
-- 🧠 Aprendendo **Python**, **C**, **HTML/CSS** e **bancos de dados**.
+- 🧠 Aprendendo **Python**, **C**, **Java**, **HTML/CSS** e **bancos de dados**.
 - 🎯 Buscando minha primeira oportunidade como **dev**!
 
 ---
