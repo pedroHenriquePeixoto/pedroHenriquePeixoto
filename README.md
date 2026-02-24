@@ -27,13 +27,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pedroHenriquePeixoto&show_icons=true&theme=tokyonight" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroHenriquePeixoto&layout=compact&theme=tokyonight" />
-</div>
-
 ---
 
 ### 📫 Contato
