@@ -1,14 +1,14 @@
 <h1 align="center">Olá! Eu sou o Pedro 👋</h1>
 
 <p align="center">
-  📍 Brasil &nbsp;|&nbsp; 💻 Assistente de Planejamento na Digicob &nbsp;|&nbsp; 🎓 Estudante de Sistemas de Informação
+  📍 Brasil &nbsp;|&nbsp; 💻 Assistente de Dados na Digicob &nbsp;|&nbsp; 🎓 Estudante de Sistemas de Informação
 </p>
 
 ---
 
 ### 🚀 Sobre mim
 
-- 💼 Atualmente atuo como assistente de planejamento estratégico na **Digicob**, usando **Excel**, **Power BI** e **SQL Server**.
+- 💼 Atualmente atuo como assistente de dados na **Digicob**, usando **Python**, **Power BI** e **PostgreSQL**.
 - 👨‍💻 Estudando para migrar para a área de **desenvolvimento de software**.
 - 🧠 Aprendendo **Python**, **C**, **Java**, **HTML/CSS** e **bancos de dados**.
 - 🎯 Buscando minha primeira oportunidade como **dev**!
@@ -19,6 +19,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![PostgreSQL]([https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white](https://img.shields.io/badge/postgreeSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white))
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
