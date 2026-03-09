@@ -11,7 +11,6 @@
 - 💼 Atualmente atuo como assistente de dados na **Digicob**, usando **Python**, **Power BI** e **PostgreSQL**.
 - 👨‍💻 Estudando para migrar para a área de **desenvolvimento de software**.
 - 🧠 Aprendendo **Python**, **C**, **Java**, **HTML/CSS** e **bancos de dados**.
-- 🎯 Buscando minha primeira oportunidade como **dev**!
 
 ---
 
