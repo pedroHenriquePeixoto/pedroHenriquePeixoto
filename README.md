@@ -34,3 +34,9 @@
 - [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:p2h0p0m1@outlook.com)
 
 ---
+
+### 📊 Linguagens mais usadas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroHenriquePeixoto&layout=compact&theme=tokyonight"/>
+</p>
